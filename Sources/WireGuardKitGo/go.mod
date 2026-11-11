@@ -9,6 +9,6 @@ require (
 
 require (
 	golang.org/x/crypto v0.52.0 // indirect
-	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20211104114900-415007cec224 // indirect
 )
